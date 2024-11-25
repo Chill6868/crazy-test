@@ -17,7 +17,7 @@ export default function Home() {
 			<Button href="/contact">contact</Button>
 			<Scroller>
 				<p>okej</p>
-				<p>ja pierdole</p>
+				<p>ja pierdole 25.11</p>
 			</Scroller>
 			<SectionTitle />
 			<CustomLink href="/contact">contact</CustomLink>
