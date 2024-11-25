@@ -58,7 +58,8 @@ export default {
 					DEFAULT: "rgb(var(--color-button))",
 				},
 				cta: {
-					DEFAULT: "rgb(var(--color-cta))",
+					DEFAULT: "rgb(var(--color-cta-500))",
+					700: "rgb(var(--color-cta-700))",
 				},
 				background: {
 					DEFAULT: "rgb(var(--color-background-primary))",
